@@ -1,0 +1,20 @@
+.text {
+  background-color: hsl(350, 100%, 88%);
+  font-family: "Verdana","DejaVu Sans", "sans-serif";
+
+}
+
+#container1 {
+  color: hsl(240, 100%, 50%);
+  font-size: 36px;
+}
+
+.text.cooler{
+  font-size: 24px;
+}
+
+#container2 {
+  background-color: hsl(120, 73%, 75%);
+  font-size: 24px;
+  font-weight: bold;
+}
